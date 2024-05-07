@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sandesh_2027" target="blank"><img src="https://img.shields.io/twitter/follow/@sandesh_2027?logo=twitter&style=for-the-badge" alt="@sandesh_2027" /></a> </p>
 
-- 🌱 fine-tuning my skills with **DJANGO**
+- 🌱 Fine-tuning my skills with **DJANGO**
 
 - 💬Feel free to inquire, particularly about **Python, JavaScript, and certainly other programming topics**
 
