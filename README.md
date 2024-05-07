@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@sandesh_2027" target="blank"><img src="https://img.shields.io/twitter/follow/@sandesh_2027?logo=twitter&style=for-the-badge" alt="@sandesh_2027" /></a> </p>
 
-- 🌱 Fine-tuning my skills with **DJANGO**
+- Fine-tuning my skills with **DJANGO**
 
-- 💬Feel free to inquire, particularly about **Python, JavaScript, and certainly other programming topics**
+- Feel free to inquire, particularly about **Python, JavaScript, and certainly other programming topics**
 
-- 📫Drop me a line, particularly via email **dsandesh263@gmail.com**
+- Drop me a line, particularly via email **dsandesh263@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
