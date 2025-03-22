@@ -1,42 +1,41 @@
-<h1 align="center">Me: A Nutshell Edition</h1>
-<h3 align="center">Budding Programmer, fusing skill and curiosity within the coding realm.</h3>
+# Sandesh Dhakal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-200&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-200" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/sandesh1011?style=social)](https://x.com/Sandesh_2027) 
+[![Email](https://img.shields.io/badge/Email-dsandesh263@gmail.com-blue)](mailto:dsandesh263@gmail.com) 
+[![Phone](https://img.shields.io/badge/Phone-+977%209811333383-green)](tel:+9779811333383)
 
-<p align="left"> <a href="https://twitter.com/@sandesh_2027" target="blank"><img src="https://img.shields.io/twitter/follow/@sandesh_2027?logo=twitter&style=for-the-badge" alt="@sandesh_2027" /></a> </p>
+I’m a Full Stack Developer and Computer Science student at Tribhuvan University (Expected Graduation: 2027). I specialize in building scalable web applications using modern technologies and have a strong foundation in both backend and frontend development.
 
-- Fine-tuning my skills with **DJANGO REST FRAMEWORK**
+---
 
-- Feel free to inquire, particularly about **Python, JavaScript, and certainly other programming topics**
+## Skills
 
-- Drop me a line, particularly via email **dsandesh263@gmail.com**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-092E20?style=flat-square&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sandesh_2027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandesh_2027" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandesh1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesh1011" height="30" width="40" /></a>
-<a href="https://fb.com/sandesh1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandesh1011" height="30" width="40" /></a>
-</p>
+- **Backend**: Django, Flask, Django Rest Framework, Node.js, Express
+- **Frontend**: React (Hooks, Redux), JavaScript (ES6+), Bootstrap
+- **Databases**: PostgreSQL, MongoDB
+- **Tools**: Docker, Celery, WebSockets, REST APIs, Linux
+- **Data Analysis**: NumPy, Pandas, Matplotlib
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" alt="drf" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandesh-200&show_icons=true&locale=en&layout=compact" alt="sandesh-200" /></p>
+## Contact
+- Email: [dsandesh263@gmail.com](mailto:dsandesh263@gmail.com)    
+- Phone: (+977) 9811333383  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandesh-200&show_icons=true&locale=en" alt="sandesh-200" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh-200&" alt="sandesh-200" /></p>
+Feel free to reach out for collaboration or inquiries about my work.
