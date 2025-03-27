@@ -25,6 +25,7 @@ I’m a Full Stack Developer and Computer Science student at Tribhuvan Universit
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-11557C?style=flat-square&logo=redis&logoColor=red)
 
 - **Backend**: Django, Flask, Django Rest Framework, Node.js, Express
 - **Frontend**: React (Hooks, Redux), JavaScript (ES6+), Bootstrap
