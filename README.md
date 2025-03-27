@@ -29,7 +29,7 @@ I’m a Full Stack Developer and Computer Science student at Tribhuvan Universit
 
 - **Backend**: Django, Flask, Django Rest Framework, Node.js, Express
 - **Frontend**: React (Hooks, Redux), JavaScript (ES6+), Bootstrap
-- **Databases**: PostgreSQL, MongoDB
+- **Databases and Caching**: PostgreSQL, MongoDB, Redis
 - **Tools**: Docker, Celery, WebSockets, REST APIs, Linux
 - **Data Analysis**: NumPy, Pandas, Matplotlib
 
