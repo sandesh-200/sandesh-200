@@ -28,7 +28,7 @@ I’m a Full Stack Developer and Computer Science student at Tribhuvan Universit
 ![Redis](https://img.shields.io/badge/-Redis-11557C?style=flat-square&logo=redis&logoColor=red)
 
 - **Backend**: Django, Flask, Django Rest Framework, Node.js, Express
-- **Frontend**: React (Hooks, Redux), JavaScript (ES6+), Bootstrap
+- **Frontend**: React, JavaScript, Bootstrap
 - **Databases and Caching**: PostgreSQL, MongoDB, Redis
 - **Tools**: Docker, Celery, WebSockets, REST APIs, Linux
 - **Data Analysis**: NumPy, Pandas, Matplotlib
